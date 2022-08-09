@@ -9,7 +9,7 @@ Frontend Web Developer
 
 
 ## 🚀 Acerca de mí
-Ingeniero en Sistemas , docente y emprendedor apasionado por la tecnología el diseño y el desarrollo web.
+Ingeniero en Sistemas , Docente y Emprendedor apasionado por la tecnología, el diseño y el desarrollo web.
 
 
 ## 🛠 Skills

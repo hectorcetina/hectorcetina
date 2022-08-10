@@ -2,7 +2,7 @@
 ![Logo](https://hectorcetina.com/imagenes/logo_github.jpg)
 
 
-# Ing. Hector Cetina Cordero
+# Ing. Héctor Jesús Cetina Cordero
 
 Frontend Web Developer
 
